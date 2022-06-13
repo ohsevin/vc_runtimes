@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.23798" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+  <file name="api-ms-win-core-localization-l1-2-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-localization-l1-2-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">m/K/863LH7Vwd5SxgyDXET9FRG3VBe7kOrv4g1zXOkQ=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-memory-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-memory-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">NIZRyjjiMCLobCxts5eTIVY9Fv1o9MPvyBZrTe+6S5U=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-namedpipe-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-namedpipe-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">5oI6wbAFZH09hO7Hr6QLdDboPxPMnSxHo/jpCRRpUVM=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-processenvironment-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-processenvironment-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">uHRiaVDG/Mw6QL2056UA6gdfpHC8bQOYFdSkZUO+0Rg=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-processthreads-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-processthreads-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">Q7UNMtGTxqgP1e14NOj35DAoGQ+SlvE4jyH+RLhZ5FM=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-processthreads-l1-1-1.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-processthreads-l1-1-1.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">z878WvP3o3JC3Nv+vtu5VKDSHZMXVEG85oChpMHJ/vM=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-profile-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-profile-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">4hkVXNnstDxHa/BHwyEPOc4DxSBAtA4a38J6WlkqyAk=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-rtlsupport-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-rtlsupport-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">RV2Dxm8k9t25BuFIJOiqWOd9gSVGjjyt9X/b2HEbs4I=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-string-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-string-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">BwxpPbZLkQVVMT5dkEzy1NHFkHpmiZrMMLgGKMU12ZQ=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-synch-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-synch-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">OhbWRZZBnbrAN/+1x4LhX+adi4AwROmZEgrcrWqOoe0=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-synch-l1-2-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-synch-l1-2-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">BUgtu2fwBeC2G71EzgSBglT/7Ldl+DYyS7yz3RdFJP4=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-sysinfo-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-sysinfo-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">SBclj5W2ylN9+Pq7zNYspNu7qZeWINjRAAvkwq/GIdc=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-timezone-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-timezone-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">AAbESf3tZ8t82d+0+pMQzlEDyjsTRK9yBSUJyLHNStI=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-util-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-util-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">V1rzrE2+bgb52i8plQlr4tjEzRjjmlJqb20ZAzLaTvc=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-console-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-console-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">mSP9uBn8xBWxsEBfkfcX+8Qgwr7aQWK80s11ITFDBvA=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-datetime-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-datetime-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">s0KxwKJtttq/AIPEvDz6WP4YOb684iIfyuZyzi7iUy4=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-debug-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-debug-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">M8YVBWykAlXp62lqQrnzcvV2vVc2NNkz1Ew/OUsMDPA=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-errorhandling-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-errorhandling-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">T7lBkSjm8/9uQVYSzhGCWnWJkr/+whGXDUBFOb/+49Y=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-file-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-file-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">DbsxSLvOLSzDry8ZZgyl75Z5jkucRPHg1hkrcbkx42w=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-file-l1-2-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-file-l1-2-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">9Wt0nAHMghGP/lOGdN8iofTvegfpTlWdJfVc4QTnsJU=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-handle-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-handle-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">aI5+w9yIvI9aB6jnzlroQgY2IBQTO9LrLDLg+X8YppI=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-heap-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-heap-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">BpOe7h7dXBRDPr5tCZJ6pbXeMcQmG+hWuCgMRapafYM=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-interlocked-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-interlocked-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">FO5lajXKL1WNKs4Re4m9LGbBTWbowG8sLYoQjP4UQUU=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-libraryloader-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-libraryloader-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">zTCIVWF9ea0/Owxi+tYBpNl0HITV4kZvCRGJH+5jFPw=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-xstate-l2-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-xstate-l2-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">se0J8XKkOoJoU95phRuPKry4BXfWe9l1XEX6/IGZosk=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-core-file-l2-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-core-file-l2-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">qLeeIwqBECc1mWUA3QDTS/p3lVwR2HwPnJZ+yFAD4RY=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-conio-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-conio-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">W2ebgRm7XVMQfEDGPfZnuu9i3nVBjD5rVA/br8zt3KY=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-convert-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-convert-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">nOhA2aZ8RwDScfJ6jlFj7aUGzkbIW1AWh5VbVfyz0TY=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-environment-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-environment-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">aeLmRZ6iQjfV/PxCmsvIC7tYUgRKG3nwqmtUTE93DZU=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-filesystem-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-filesystem-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">iwGPEuVg0RefGtcoEdv3xgdDBhvt+jMqZWLPPbXLQT8=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-heap-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-heap-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">usk4S6RIVyeawEhlaGlBJD6k+snAjD0p/rG1PZLnbt8=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-locale-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-locale-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">OSeksLRZGYn4x7JedHKGs1lhi03m92gLIjDBz7DRJ4I=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-math-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-math-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">otv8GluqZuJXpKzGMon6c626iT+DfiswQJergpurJXo=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-multibyte-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-multibyte-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">vxKS4rSAiITvhftA51ZEyBMGPjRRHAFwbr3p9LU2jD4=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-private-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-private-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">HKoGukGaBRKaVOCFqoCqi75TPHJ2V0A291YnxCHMQ20=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-process-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-process-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">WNz57D0HR6TsI8ehzNuOsKatOq67DYwN1ICSLQEsjs0=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-runtime-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-runtime-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">CWE5zeqkCMPjvTk6cYjL1sKWw/5OTMFdoRMoaj9xPb0=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-stdio-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-stdio-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">UcVOuuwXwSFuD82Sai3Io3fPJ4En5Pv2zSbg/aUcI+E=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-string-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-string-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">CDuLDkWGSxLGBBfdPF/oi2j/xFokXVDfhPKlWx38qzg=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-time-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-time-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">emkhRYPWHMo7jXZbSI1toHD8zcwCt27kxmrrgJ+Iwdo=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-crt-utility-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-crt-utility-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">RNWCLWEf4py4Uw/ku4bqqPny4TVQTiME+KtK1uN7jTY=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="api-ms-win-eventing-provider-l1-1-0.dll" destinationPath="$(runtime.system32)\" sourceName="api-ms-win-eventing-provider-l1-1-0.dll" importPath="$(build.nttree)\apiset\downlevel\">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">rNKnpXpPwgg3J8EtpXTnlYtTAWpPm5CMw+PJiyQqZpc=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+</assembly>

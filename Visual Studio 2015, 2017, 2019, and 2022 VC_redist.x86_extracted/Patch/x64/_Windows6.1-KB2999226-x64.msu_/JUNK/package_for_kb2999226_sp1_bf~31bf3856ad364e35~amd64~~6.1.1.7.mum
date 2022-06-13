@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2999226" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2999226" creationTimeStamp="2015-08-18T19:07:08Z" lastUpdateTimeStamp="2015-08-18T19:07:08Z">
+	<assemblyIdentity name="Package_for_KB2999226_SP1_BF" version="6.1.1.7" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+	<package identifier="KB2999226_BF" applicabilityEvaluation="deep" releaseType="Update" restart="possible">
+		<parent buildCompare="EQ" serviceCompare="GE" integrate="separate" disposition="staged">
+			<assemblyIdentity name="Microsoft-Windows-Client-Features-Package" version="6.1.7601.17514" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			<assemblyIdentity name="Microsoft-Windows-EmbeddedCore-Package" version="6.1.7601.17514" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			<assemblyIdentity name="Microsoft-Windows-ServerCore-Package" version="6.1.7601.17514" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			<assemblyIdentity name="Microsoft-Windows-Server-Features-Package" version="6.1.7601.17514" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+		</parent>
+		<installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="amd64" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35"/>
+		<update name="2999226-3_neutral_PACKAGE">
+			<package integrate="hidden">
+				<assemblyIdentity name="Package_1_for_KB2999226_BF" version="6.1.1.7" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+			</package>
+		</update>
+		<update name="2999226-4_neutral_PACKAGE">
+			<package integrate="hidden">
+				<assemblyIdentity name="Package_2_for_KB2999226_BF" version="6.1.1.7" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+			</package>
+		</update>
+	</package>
+</assembly>

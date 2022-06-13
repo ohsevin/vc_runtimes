@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2999226" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2999226" creationTimeStamp="2015-08-22T17:07:15Z" lastUpdateTimeStamp="2015-08-22T17:07:15Z">
+  <assemblyIdentity name="Package_for_KB2999226" version="6.3.1.9" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="KB2999226" applicabilityEvaluation="deep" releaseType="Update" restart="possible">
+    <parent buildCompare="EQ" serviceCompare="GE" integrate="separate" disposition="detect">
+      <assemblyIdentity name="Microsoft-Windows-Client-Features-Package" version="6.3.9600.16384" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </parent>
+    <installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="x86" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35" />
+    <update name="2999226-4_neutral_PACKAGE">
+      <package integrate="hidden">
+        <assemblyIdentity name="Package_for_KB2999226_RTM" version="6.3.1.9" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" />
+      </package>
+    </update>
+    <mum2:packageExtended xmlns:mum2="urn:schemas-microsoft-com:asm.v3" completelyOfflineCapable="no" packageSize="1202221" />
+  </package>
+</assembly>

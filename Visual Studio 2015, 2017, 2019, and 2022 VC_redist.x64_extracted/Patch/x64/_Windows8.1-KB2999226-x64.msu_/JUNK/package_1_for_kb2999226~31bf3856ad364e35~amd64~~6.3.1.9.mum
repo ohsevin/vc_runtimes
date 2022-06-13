@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2999226" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2999226" creationTimeStamp="2015-08-22T17:07:17Z" lastUpdateTimeStamp="2015-08-22T17:07:17Z">
+  <assemblyIdentity name="Package_1_for_KB2999226" version="6.3.1.9" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="KB2999226" releaseType="Update" restart="possible">
+    <parent buildCompare="EQ" serviceCompare="GE" integrate="separate" disposition="detect">
+      <assemblyIdentity name="Microsoft-Windows-Client-Features-Package" version="6.3.9600.16384" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      <assemblyIdentity name="Microsoft-Windows-ServerCore-SKU-Foundation-Package" version="6.3.9600.16384" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      <assemblyIdentity name="Microsoft-Windows-Server-Features-Package" version="6.3.9600.16384" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </parent>
+    <installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="amd64" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35" />
+    <update name="2999226-1_neutral_GDR">
+      <applicable disposition="staged">
+        <updateComponent elevate="install">
+          <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.3.9600.18036" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-WinBlue" version="6.3.9600.18036" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.3.9600.18036" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-WinBlue" version="6.3.9600.18036" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+        </updateComponent>
+      </applicable>
+      <component>
+        <assemblyIdentity name="9cc9375d36569a21feec775ae595287b" version="6.3.9600.18036" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      </component>
+    </update>
+  </package>
+</assembly>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+  <assemblyIdentity name="a26446a4ce0e2ee882f5e8abadc06506" version="6.0.6002.23798" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+  <deployment />
+  <dependency discoverable="false">
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.0.6002.23798" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency discoverable="false">
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.23798" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency discoverable="false">
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.0.6002.23798" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+  <dependency discoverable="false">
+    <dependentAssembly dependencyType="install">
+      <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.23798" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </dependentAssembly>
+  </dependency>
+</assembly>

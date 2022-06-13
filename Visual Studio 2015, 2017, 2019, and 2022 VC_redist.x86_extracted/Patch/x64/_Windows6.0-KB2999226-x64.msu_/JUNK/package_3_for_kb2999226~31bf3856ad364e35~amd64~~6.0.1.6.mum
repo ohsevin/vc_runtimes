@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2999226" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2999226" creationTimeStamp="2015-09-10T14:57:56Z" lastUpdateTimeStamp="2015-09-10T14:57:56Z">
+  <assemblyIdentity name="Package_3_for_KB2999226" version="6.0.1.6" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="KB2999226" releaseType="Update" restart="possible">
+    <parent integrate="separate" disposition="staged">
+      <assemblyIdentity name="package_for_KB948465" version="6.0.1.18005" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+    </parent>
+    <installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="amd64" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35" />
+    <update name="2999226-7_neutral_LDR">
+      <applicable disposition="staged">
+        <updateComponent elevate="revision">
+          <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.0.6002.23798" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.23798" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.0.6002.23798" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.23798" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+        </updateComponent>
+      </applicable>
+      <component>
+        <assemblyIdentity name="a26446a4ce0e2ee882f5e8abadc06506" version="6.0.6002.23798" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="2999226-8_neutral_GDR">
+      <applicable disposition="staged">
+        <updateComponent elevate="install">
+          <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.0.6002.19488" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.19488" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UCRT" version="6.0.6002.19488" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+          <assemblyIdentity name="Microsoft-Windows-UniversalCRT-APIfwd-Vista" version="6.0.6002.19488" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+        </updateComponent>
+      </applicable>
+      <component>
+        <assemblyIdentity name="6205d1893ace4ca019deddb3cbe87d64" version="6.0.6002.19488" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      </component>
+    </update>
+  </package>
+</assembly>
